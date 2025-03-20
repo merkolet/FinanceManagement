@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6q8qGBEcV1Wi21ocC3lumeiLmRuJcf6gFOY+TbzV3TMUkGgSc5hWL4YwjUkDhbTL6Cq58FLyOfON6scMScn63g==",
+  "success": true,
+  "projectFilePath": "/Users/sergey/RiderProjects/KR1/FinanceManagement/FinanceManagement.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergey/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/sergey/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
